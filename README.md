@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**arturoberniak/arturoberniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Artur**, a backend developer based in Warsaw, Poland.
 
-Here are some ideas to get you started:
+I build backend systems in Java and Spring Boot, with a focus on clean architecture, reliable REST APIs, solid testing, and applications that are ready to run in production. I'm particularly interested in integrating AI into real-world software, and that is the direction I'm growing in. Currently deepening my knowledge of Kafka, Kubernetes, and the Quarkus framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+**Backend:** Java, Spring Boot, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA, Apache Kafka
+**Databases:** PostgreSQL, MongoDB, Redis, Flyway
+**Testing:** JUnit, Mockito, Testcontainers
+**DevOps and tools:** Docker, Git, GitLab, CI/CD, Maven, Gradle, Jira, Postman, Swagger, AWS (S3)
+**Frontend:** JavaScript, HTML, CSS, React
+
+## Fun facts
+
+- 🎓 B.Eng. in Computer Science
+- ☕ Currently writing more Java than drinking coffee
+- 🌍 I speak Ukrainian, Russian, Polish, and English
+- 🤖 I use AI tools daily, both as a developer and as a builder
+
+## Get in touch
+
+- 📫 [arturoberniak@gmail.com](mailto:arturoberniak@gmail.com)
+- 💬 [Telegram](https://t.me/arturrr7)
