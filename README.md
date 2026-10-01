@@ -6,11 +6,11 @@ I build backend systems in Java and Spring Boot, with a focus on clean architect
 
 ## Tech stack
 
-**Backend:** Java, Spring Boot, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA, Apache Kafka
-**Databases:** PostgreSQL, MongoDB, Redis, Flyway
-**Testing:** JUnit, Mockito, Testcontainers
-**DevOps and tools:** Docker, Git, GitLab, CI/CD, Maven, Gradle, Jira, Postman, Swagger, AWS (S3)
-**Frontend:** JavaScript, HTML, CSS, React
+- **Backend:** Java, Spring Boot, Spring Data, Spring Security, Spring Cloud, Hibernate, JPA, Apache Kafka
+- **Databases:** PostgreSQL, MongoDB, Redis, Flyway
+- **Testing:** JUnit, Mockito, Testcontainers
+- **DevOps and tools:** Docker, Git, GitLab, CI/CD, Maven, Gradle, Jira, Postman, Swagger, AWS (S3)
+- **Frontend:** JavaScript, HTML, CSS, React
 
 ## Fun facts
 
